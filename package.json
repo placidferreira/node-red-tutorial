@@ -2,7 +2,9 @@
     "name": "trial-auth",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-dashboard": "2.19.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
